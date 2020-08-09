@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sapper</string>
+    <string name="Header">Sapper</string>
+    <string name="Choose">Choose your difficulty</string>
+    <string name="Start">Start the game</string>
+    <string name="Sound">Sound</string>
+    <string name="Vibration">Vibration</string>
+    <string name="Settings">Settings</string>
+    <string name="Ok">Ok</string>
+    <string name="Info">Information</string>
+</resources>

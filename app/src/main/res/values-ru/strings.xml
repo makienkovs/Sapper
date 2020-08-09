@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Сапер</string>
+    <string name="Header">Сапер</string>
+    <string name="Choose">Уровень сложности</string>
+    <string name="Start">Начать игру</string>
+    <string name="Sound">Звук</string>
+    <string name="Vibration">Вибрация</string>
+    <string name="Settings">Настройки</string>
+    <string name="Ok">Ok</string>
+    <string name="Info">Информация</string>
+</resources>

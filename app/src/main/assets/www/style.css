@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#all{
+    border: 2px solid grey;
+}
+
+#menu{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    float: left;
+    color: red;
+    font-weight: 900;
+    outline: 1px solid grey;
+    background-size: cover; 
+}
+
+#main{
+    margin: 0;
+    padding: 0;
+    outline: 1px solid grey;
+}
+
+.column{
+    float: left;
+}
+
+.divHidden{
+	background: url('Image/square.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.divHiddenHover{
+	background: url('Image/square_hover.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.div{
+	outline: 1px solid grey;
+	text-align: center;
+	font-weight: bold;
+	user-select: none;
+}
+
+.mineDiv{
+    outline: 1px solid grey;
+	background: url('Image/minediv.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.mineDivExplosion{
+    outline: 1px solid grey;
+	background: url('Image/minedivExplosion.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.redFlag{
+    outline: 1px solid grey;
+	background: url('Image/redFlag.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.redFlagWrong{
+    outline: 1px solid grey;
+	background: url('Image/redFlagWrong.png') center 100% no-repeat;
+	background-size: cover;
+}
+
+.flag{
+    float: left;
+	outline: 1px solid grey;
+    background: url('Image/redFlagdiv.png') center 100% no-repeat;
+    background-size: cover;
+}
+
+.flagSelected{
+    float: left;
+	outline: 1px solid grey;
+    background: url('Image/redFlagdivSelected.png') center 100% no-repeat;
+    background-size: cover;
+}
+
+.faceSmile{
+    float: left;
+	outline: 1px solid grey;
+	background: url('Image/smile.jpg') center 100% no-repeat;
+	background-size: cover;	
+}
+
+.faceSad{
+    float: left;
+	outline: 1px solid grey;
+	background: url('Image/sad.jpg') center 100% no-repeat;
+	background-size: cover;	
+}
+
+.facePocker{
+    float: left;
+	outline: 1px solid grey;
+	background: url('Image/pocker.jpg') center 100% no-repeat;
+	background-size: cover;	
+}
+
+.facePocker:active{
+    float: left;
+	outline: 1px solid grey;
+	background: url('Image/pockeract.jpg') center 100% no-repeat;
+	background-size: cover;	
+}
+
+.faceWow{
+    float: left;
+	outline: 1px solid grey;
+	background: url('Image/wow.jpg') center 100% no-repeat;
+	background-size: cover;	
+}
